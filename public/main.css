@@ -1,0 +1,12 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Noto Sans KR', sans-serif!important;
+	font-weight: 700!important;	
+	  letter-spacing: -0.01em!important;
+	}
+a, p{
+	font-family: 'Noto Sans KR', sans-serif!important;
+	font-weight: 300!important;	
+	  letter-spacing: -0.01em!important;
+}
